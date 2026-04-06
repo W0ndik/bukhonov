@@ -6,13 +6,9 @@ uploads/
 *.log
 
 project/data/
-project/artifacts/
-project/**/final_model/
 project/**/*.parquet
 project/**/*.csv
 project/**/*.db
-project/**/*.safetensors
-project/**/*.bin
 
 .DS_Store
 Thumbs.db
